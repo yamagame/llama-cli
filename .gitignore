@@ -1,0 +1,9 @@
+node_modules
+build
+.DS_Store
+/work/*
+!/work/.gitkeep
+*.tsbuildinfo
+__pycache__
+.mypy_cache
+yarn-error.log
